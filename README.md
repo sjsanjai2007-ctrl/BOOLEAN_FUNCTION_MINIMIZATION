@@ -51,13 +51,10 @@ RegisterNumber: 25007032
 
 <img width="819" height="654" alt="Screenshot 2025-10-07 152527" src="https://github.com/user-attachments/assets/a0e5f9f0-5e7e-442e-939e-7bfb19d3eee4" />
 
-**Output:**
-
 **RTL**
 
 <img width="954" height="594" alt="Screenshot 2025-10-07 152437" src="https://github.com/user-attachments/assets/170ac6aa-5720-4190-b78f-884671972cb9" />
 
-**Timing Diagram**
 
 **Result:**
 
